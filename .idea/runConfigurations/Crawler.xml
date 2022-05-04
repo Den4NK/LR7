@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Crawler" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="Crawler" />
+    <module name="LR7" />
+    <option name="PROGRAM_PARAMETERS" value="https://slashdot.org 2" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
